@@ -1,1 +1,2 @@
 So, I changed the content of this file!
+And I add a new line.
